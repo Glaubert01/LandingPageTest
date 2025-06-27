@@ -11,7 +11,7 @@ Uma landing page simples e responsiva criada como projeto de prática com HTML e
 ## 📸 Demonstração
 
 ![Demonstração do projeto](preview.png)  
-<sub>🖼️ *Substitua `preview.png` por uma captura de tela do seu projeto*</sub>
+
 
 ---
 
