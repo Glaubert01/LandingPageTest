@@ -34,3 +34,5 @@ LandingPageTest/
 ├── logo.svg           # Logo principal
 ├── footer.svg         # Imagem do rodapé
 └── README.md          # Documentação do projeto
+└── preview.png        # Preview do site
+
