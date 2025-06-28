@@ -12,6 +12,7 @@ Uma landing page simples e responsiva criada como projeto de prática com HTML e
 
 ![Demonstração do projeto](preview.png)  
 
+Link para acessar --> https://glaubert01.github.io/LandingPageTest/
 
 ---
 
